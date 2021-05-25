@@ -1,0 +1,1 @@
+# Ugly-Prime-Number-Ruby
